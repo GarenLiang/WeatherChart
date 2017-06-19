@@ -1,0 +1,20 @@
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+.input-group {
+  margin: 20px 0px;
+}
+
+svg {
+  height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+  height: 200px;
+  width: 250px;
+}
+#body {
+  background: url("https://www.michaelmillerfabrics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/n/e/neon_orange_1.jpg");
+}

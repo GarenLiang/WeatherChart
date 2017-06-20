@@ -18,3 +18,13 @@ td:first-of-type, td:first-of-type > div {
 #body {
   background: url("https://www.michaelmillerfabrics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/n/e/neon_orange_1.jpg");
 }
+#bar {
+  background-color: #FFFAF0;
+
+}
+#title {
+  background: #FFFAF0;
+}
+#button {
+  background-color: #dcf8c6;
+}
